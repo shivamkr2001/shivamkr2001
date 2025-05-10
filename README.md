@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Shivam Kumar
 
-<!--
-**shivamkr2001/shivamkr2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend and AI/ML engineer passionate about building intelligent systems that solve meaningful problems. Right now, I’m working on [**Researchspace**](https://www.researchspace.io/) — an AI-powered platform reimagining how researchers discover and interact with scientific knowledge.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Work On
+
+- **AI/ML Engineering** – Leveraging LLMs in research, productivity, and agent workflows  
+- **Backend Development** – FastAPI, async services, distributed queues, scalable APIs  
+- **Infrastructure** – Cloud systems (AWS & Azure), observability, deployment pipelines
+
+---
+
+## 🔍 Current Focus
+
+- Building full-stack LLM pipelines for real users  
+- Architecting reliable, production-grade AI systems  
+- Designing clean, maintainable infrastructure for fast iteration
+
+---
+
+## 📌 Background
+
+- Founder @ **Researchspace**  
+- Past experience at **Microsoft** and **Samsung R&D**  
+- Deeply interested in developer tools, applied AI, and system design
+
+---
+
+## 📫 Reach Out
+
+- [LinkedIn](https://www.linkedin.com/in/shivam-kumar-603222217/)  
+- Email: shivamkr2111@gmail.com
